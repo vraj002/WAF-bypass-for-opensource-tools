@@ -21,7 +21,7 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
    ```bash
    git clone https://github.com/yourusername/rotator.git
    cd rotator
-'''
-'''bash 
+    
+   ```bash
 pip install -r requirements.txt
-'''
+
