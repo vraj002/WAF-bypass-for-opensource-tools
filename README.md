@@ -77,3 +77,9 @@ Run the script using the command line to evcade waf:
     ```bash
    python rotator.py --tool katana --target https://example.com  
     ```
+
+![ganpat x 3](https://github.com/user-attachments/assets/3c4c9e00-fb9f-4cfe-8e19-a3fe57cde2e5)
+![ganpat x 2](https://github.com/user-attachments/assets/1013ca55-32f9-4eef-a52a-3d9863ac3a93)
+![ganpat x 1](https://github.com/user-attachments/assets/de8c8a0e-1c2e-4dec-83dc-ae690143ff7d)
+![ganpat waf detect](https://github.com/user-attachments/assets/07fc92c9-0faa-494a-af87-02a7535109c6)
+
