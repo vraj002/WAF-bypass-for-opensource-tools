@@ -25,3 +25,5 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
    ```bash
 pip install -r requirements.txt
 
+python rotator.py --tool nuclei --target https://example.com --proxies proxies.txt --user-agents user_agents.txt
+
