@@ -27,16 +27,20 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
    ```bash
    pip install -r requirements.txt
    ```
-
+  
 3.  **Make the script executable**:
-   ```bash
-   chmod +x rotator.py
-   ```
+    ```bash
+    chmod +x rotator.py
+    ```
 ## Usage
 
-Run the script using the command line:
+Run the script using the command line to evcade waf:
 
 1. **for nuclei**
     ```bash
    python3 rotator.py --tool nuclei -u https://example.com -t nuclie_template
    ```
+2. **for katana**
+    ```bash
+   python rotator.py --tool katana --target https://example.com  
+    ```
