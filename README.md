@@ -1,4 +1,5 @@
 # WAF-bypass-for-opensource-tools
+Rotator is a Python-based automation tool designed to enhance the stealth and effectiveness of web vulnerability scanners like Nuclei and Katana. It achieves this by rotating proxies, spoofing headers (like X-Forwarded-For), and randomizing User-Agent strings to help bypass Web Application Firewalls (WAFs) and avoid IP-based rate limits.
 # Rotator
 
 **Rotator** is a Python-based CLI tool designed to enhance the evasion capabilities of open-source security tools like [Nuclei](https://github.com/projectdiscovery/nuclei) and [Katana](https://github.com/projectdiscovery/katana).  
