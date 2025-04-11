@@ -21,9 +21,18 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
    ```bash
    git clone https://github.com/yourusername/rotator.git
    cd rotator
-    
+    ```
+   
+2. **Install the required dependencies**:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   ```
 
-python rotator.py --tool nuclei --target https://example.com --proxies proxies.txt --user-agents user_agents.txt
+3.  **Make the script executable**:
+   ```bash
+   chmod +x rotator.py
+   ```
+## Usage
+
+Run the script using the command line:
 
