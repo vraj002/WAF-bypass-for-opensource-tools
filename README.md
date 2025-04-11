@@ -3,7 +3,9 @@ Rotator is a Python-based automation and stealth evasion tool built to enhance t
 
 **Rotator works by rotating critical request identifiers such as**:
     Proxies (to simulate changing IP addresses),
+    
     User-Agent headers (to spoof different clients),
+    
     X-Forwarded-For headers (to manipulate perceived IPs at the server end).
     
 🔍 **Key Functional Highlights**
