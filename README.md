@@ -19,7 +19,7 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rotator.git
+   git clone https://github.com/
    cd rotator
     ```
    
