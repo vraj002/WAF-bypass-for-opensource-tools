@@ -5,8 +5,10 @@ Rotator is a Python-based automation and stealth evasion tool built to enhance t
     Proxies (to simulate changing IP addresses),
     User-Agent headers (to spoof different clients),
     X-Forwarded-For headers (to manipulate perceived IPs at the server end).
+    
 🔍 **Key Functional Highlights**
     WAF Detection: At the very beginning of the scan, Rotator attempts to detect the presence and type of WAF (e.g., Cloudflare, AWS WAF, Akamai, etc.) using a custom signature-based system.
+    
     Intelligent Proxy Rotation:
         Automatically rotates the proxy (IP) and User-Agent after a configurable number of requests (default is 20).
         This helps avoid triggering rate limits or behavioral detection mechanisms based on request volume or user behavior.
