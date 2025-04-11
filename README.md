@@ -19,7 +19,7 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/vraj002/WAF-bypass-for-opensource-tools.git
    cd rotator
     ```
    
@@ -36,3 +36,7 @@ It leverages techniques like **proxy rotation**, **User-Agent rotation**, and **
 
 Run the script using the command line:
 
+1. **for nuclei**
+    ```bash
+   python3 rotator.py --tool nuclei -u https://example.com -t nuclie_template
+   ```
