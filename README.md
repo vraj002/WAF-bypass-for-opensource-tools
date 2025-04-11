@@ -41,6 +41,11 @@ Run the script using the command line to evcade waf:
     ```bash
    python3 rotator.py --tool nuclei -u https://example.com -t nuclie_template
    ```
+  if you want to change the proxy(ip) after 10 request:
+  ```bash
+   python3 rotator.py --tool nuclei -u https://example.com -t nuclie_template --rotation 10
+  ```
+  
 2. **for katana**
     ```bash
    python rotator.py --tool katana --target https://example.com  
