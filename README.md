@@ -2,6 +2,7 @@
 Rotator is a Python-based automation and stealth evasion tool built to enhance the effectiveness of web vulnerability scanners like Nuclei and Katana. It is specifically designed to bypass modern Web Application Firewalls (WAFs) and rate-limiting mechanisms during offensive security assessments.
 
 **Rotator works by rotating critical request identifiers such as**:
+
     Proxies (to simulate changing IP addresses),
     
     User-Agent headers (to spoof different clients),
